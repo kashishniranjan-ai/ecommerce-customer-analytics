@@ -79,6 +79,7 @@ ecommerce-customer-analytics/
 ├── index.html
 ├── requirements.txt
 └── README.md
+
 🔄 Analytics Workflow
 Raw E-Commerce Data
         ↓
@@ -191,24 +192,27 @@ The included dataset is synthetically generated for demonstration purposes and f
 
 This makes the project reproducible while avoiding exposure of real customer information.
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Possible future improvements include:
 
-Add predictive customer churn analysis
-Build a customer lifetime value prediction model
-Add sales forecasting
-Add product recommendation functionality
-Connect the dashboard to a live database
-Add automated data pipelines
-Deploy the analytics pipeline using cloud services
-Add role-based dashboard views for business teams
-👩‍💻 Author
+- Add predictive customer churn analysis
+- Build a customer lifetime value prediction model
+- Add sales forecasting
+- Add product recommendation functionality
+- Connect the dashboard to a live database
+- Add automated data pipelines
+- Deploy the analytics pipeline using cloud services
+- Add role-based dashboard views for business teams
 
-Kashish Niranjan
+## 👩‍💻 Author
+
+**Kashish Niranjan**
 
 B.Tech Computer Science Engineering | Data Analytics & Python
 
-Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/kashishniranjan/
-🐙 GitHub: https://github.com/kashishniranjan-ai
+### Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kashishniranjan/)
+- 🐙 [GitHub](https://github.com/kashishniranjan-ai)
+
