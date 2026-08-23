@@ -1,0 +1,1147 @@
+{
+  "kpis": {
+    "total_revenue": 3273605.39,
+    "total_orders": 7357,
+    "total_customers": 2500,
+    "active_purchasing_customers": 2082,
+    "avg_order_value": 444.96,
+    "return_rate_pct": 4.4,
+    "repeat_purchase_rate_pct": 69.12,
+    "avg_customer_ltv": 1572.34
+  },
+  "monthly": [
+    {
+      "order_month": "2023-02",
+      "revenue": 1052.72,
+      "orders": 2,
+      "aov": 526.36
+    },
+    {
+      "order_month": "2023-03",
+      "revenue": 9973.86,
+      "orders": 23,
+      "aov": 433.64608695652174
+    },
+    {
+      "order_month": "2023-04",
+      "revenue": 8038.48,
+      "orders": 31,
+      "aov": 259.3058064516129
+    },
+    {
+      "order_month": "2023-05",
+      "revenue": 16799.81,
+      "orders": 43,
+      "aov": 390.6932558139535
+    },
+    {
+      "order_month": "2023-06",
+      "revenue": 20825.45,
+      "orders": 56,
+      "aov": 371.8830357142857
+    },
+    {
+      "order_month": "2023-07",
+      "revenue": 39100.41,
+      "orders": 74,
+      "aov": 528.383918918919
+    },
+    {
+      "order_month": "2023-08",
+      "revenue": 39524.32,
+      "orders": 75,
+      "aov": 526.9909333333334
+    },
+    {
+      "order_month": "2023-09",
+      "revenue": 46806.38,
+      "orders": 97,
+      "aov": 482.53999999999996
+    },
+    {
+      "order_month": "2023-10",
+      "revenue": 55899.52,
+      "orders": 128,
+      "aov": 436.715
+    },
+    {
+      "order_month": "2023-11",
+      "revenue": 57794.67,
+      "orders": 134,
+      "aov": 431.3035074626866
+    },
+    {
+      "order_month": "2023-12",
+      "revenue": 77328.19,
+      "orders": 164,
+      "aov": 471.5133536585366
+    },
+    {
+      "order_month": "2024-01",
+      "revenue": 88700.06,
+      "orders": 184,
+      "aov": 482.06554347826085
+    },
+    {
+      "order_month": "2024-02",
+      "revenue": 86253.21,
+      "orders": 180,
+      "aov": 479.1845
+    },
+    {
+      "order_month": "2024-03",
+      "revenue": 92310.63,
+      "orders": 214,
+      "aov": 431.3580841121495
+    },
+    {
+      "order_month": "2024-04",
+      "revenue": 95754.6,
+      "orders": 234,
+      "aov": 409.20769230769235
+    },
+    {
+      "order_month": "2024-05",
+      "revenue": 85742.77,
+      "orders": 213,
+      "aov": 402.54821596244136
+    },
+    {
+      "order_month": "2024-06",
+      "revenue": 124353.37,
+      "orders": 259,
+      "aov": 480.12884169884165
+    },
+    {
+      "order_month": "2024-07",
+      "revenue": 126707.91,
+      "orders": 258,
+      "aov": 491.1159302325581
+    },
+    {
+      "order_month": "2024-08",
+      "revenue": 116882.73,
+      "orders": 263,
+      "aov": 444.42102661596954
+    },
+    {
+      "order_month": "2024-09",
+      "revenue": 112868.43000000001,
+      "orders": 285,
+      "aov": 396.02957894736846
+    },
+    {
+      "order_month": "2024-10",
+      "revenue": 132150.2,
+      "orders": 304,
+      "aov": 434.70460526315793
+    },
+    {
+      "order_month": "2024-11",
+      "revenue": 153776.91,
+      "orders": 310,
+      "aov": 496.05454838709676
+    },
+    {
+      "order_month": "2024-12",
+      "revenue": 135002.34,
+      "orders": 317,
+      "aov": 425.87488958990537
+    },
+    {
+      "order_month": "2025-01",
+      "revenue": 133966.23,
+      "orders": 330,
+      "aov": 405.95827272727274
+    },
+    {
+      "order_month": "2025-02",
+      "revenue": 144760.15,
+      "orders": 295,
+      "aov": 490.7123728813559
+    },
+    {
+      "order_month": "2025-03",
+      "revenue": 123025.71,
+      "orders": 304,
+      "aov": 404.6898355263158
+    },
+    {
+      "order_month": "2025-04",
+      "revenue": 140884.55,
+      "orders": 298,
+      "aov": 472.7669463087248
+    },
+    {
+      "order_month": "2025-05",
+      "revenue": 140550.18,
+      "orders": 305,
+      "aov": 460.82026229508193
+    },
+    {
+      "order_month": "2025-06",
+      "revenue": 135417.61,
+      "orders": 312,
+      "aov": 434.03080128205124
+    },
+    {
+      "order_month": "2025-07",
+      "revenue": 132761.2,
+      "orders": 308,
+      "aov": 431.0428571428572
+    },
+    {
+      "order_month": "2025-08",
+      "revenue": 123611.49,
+      "orders": 296,
+      "aov": 417.60638513513516
+    },
+    {
+      "order_month": "2025-09",
+      "revenue": 127109.12,
+      "orders": 262,
+      "aov": 485.1493129770992
+    },
+    {
+      "order_month": "2025-10",
+      "revenue": 110580.0,
+      "orders": 262,
+      "aov": 422.0610687022901
+    },
+    {
+      "order_month": "2025-11",
+      "revenue": 115706.85,
+      "orders": 266,
+      "aov": 434.98815789473684
+    },
+    {
+      "order_month": "2025-12",
+      "revenue": 121585.33,
+      "orders": 271,
+      "aov": 448.65435424354246
+    }
+  ],
+  "by_category": [
+    {
+      "category": "Electronics",
+      "revenue": 2000870.21,
+      "units": 4264,
+      "orders": 2629
+    },
+    {
+      "category": "Home & Kitchen",
+      "revenue": 497421.32,
+      "units": 3154,
+      "orders": 2010
+    },
+    {
+      "category": "Apparel",
+      "revenue": 302141.2,
+      "units": 3758,
+      "orders": 2393
+    },
+    {
+      "category": "Sports & Outdoors",
+      "revenue": 270360.15,
+      "units": 2071,
+      "orders": 1404
+    },
+    {
+      "category": "Beauty",
+      "revenue": 122569.46,
+      "units": 2509,
+      "orders": 1645
+    },
+    {
+      "category": "Toys & Games",
+      "revenue": 119630.47,
+      "units": 1828,
+      "orders": 1236
+    },
+    {
+      "category": "Grocery",
+      "revenue": 51041.78,
+      "units": 1631,
+      "orders": 1101
+    },
+    {
+      "category": "Books",
+      "revenue": 41724.49,
+      "units": 1677,
+      "orders": 1147
+    }
+  ],
+  "by_channel": [
+    {
+      "channel": "Paid Ads",
+      "revenue": 781338.06,
+      "orders": 1743
+    },
+    {
+      "channel": "Organic Search",
+      "revenue": 779710.39,
+      "orders": 1733
+    },
+    {
+      "channel": "Social Media",
+      "revenue": 575771.43,
+      "orders": 1370
+    },
+    {
+      "channel": "Email",
+      "revenue": 527281.59,
+      "orders": 1190
+    },
+    {
+      "channel": "Direct",
+      "revenue": 422453.21,
+      "orders": 930
+    },
+    {
+      "channel": "Referral",
+      "revenue": 187050.71,
+      "orders": 391
+    }
+  ],
+  "by_region": [
+    {
+      "region": "North",
+      "revenue": 794947.34,
+      "orders": 1798
+    },
+    {
+      "region": "South",
+      "revenue": 787065.33,
+      "orders": 1777
+    },
+    {
+      "region": "East",
+      "revenue": 669391.05,
+      "orders": 1456
+    },
+    {
+      "region": "West",
+      "revenue": 567677.14,
+      "orders": 1299
+    },
+    {
+      "region": "Central",
+      "revenue": 454524.53,
+      "orders": 1027
+    }
+  ],
+  "segment_summary": [
+    {
+      "segment": "Champions",
+      "customers": 392,
+      "total_revenue": 1494357.96,
+      "avg_frequency": 8.043367346938776,
+      "avg_recency": 68.0561224489796,
+      "pct_customers": 18.8,
+      "pct_revenue": 45.6
+    },
+    {
+      "segment": "Loyal Customers",
+      "customers": 507,
+      "total_revenue": 1020205.79,
+      "avg_frequency": 4.270216962524655,
+      "avg_recency": 176.32347140039448,
+      "pct_customers": 24.4,
+      "pct_revenue": 31.2
+    },
+    {
+      "segment": "Potential Loyalists",
+      "customers": 398,
+      "total_revenue": 409865.69,
+      "avg_frequency": 2.479899497487437,
+      "avg_recency": 243.76884422110552,
+      "pct_customers": 19.1,
+      "pct_revenue": 12.5
+    },
+    {
+      "segment": "At Risk",
+      "customers": 413,
+      "total_revenue": 253703.06,
+      "avg_frequency": 1.5423728813559323,
+      "avg_recency": 304.93946731234865,
+      "pct_customers": 19.8,
+      "pct_revenue": 7.7
+    },
+    {
+      "segment": "Hibernating",
+      "customers": 372,
+      "total_revenue": 95472.89,
+      "avg_frequency": 1.1155913978494623,
+      "avg_recency": 470.9543010752688,
+      "pct_customers": 17.9,
+      "pct_revenue": 2.9
+    }
+  ],
+  "top_customers": [
+    {
+      "customer_id": 1158,
+      "customer_name": "Oscar Todd",
+      "region": "Central",
+      "acquisition_channel": "Organic Search",
+      "frequency": 21,
+      "monetary": 11920.97,
+      "segment": "Champions"
+    },
+    {
+      "customer_id": 843,
+      "customer_name": "Kevin Brown",
+      "region": "South",
+      "acquisition_channel": "Paid Ads",
+      "frequency": 12,
+      "monetary": 11060.94,
+      "segment": "Champions"
+    },
+    {
+      "customer_id": 1055,
+      "customer_name": "Dominique White",
+      "region": "South",
+      "acquisition_channel": "Organic Search",
+      "frequency": 11,
+      "monetary": 10228.41,
+      "segment": "Champions"
+    },
+    {
+      "customer_id": 2242,
+      "customer_name": "Michael Phillips",
+      "region": "East",
+      "acquisition_channel": "Email",
+      "frequency": 5,
+      "monetary": 10159.630000000001,
+      "segment": "Loyal Customers"
+    },
+    {
+      "customer_id": 2364,
+      "customer_name": "Kevin Estrada",
+      "region": "North",
+      "acquisition_channel": "Paid Ads",
+      "frequency": 17,
+      "monetary": 9813.92,
+      "segment": "Champions"
+    },
+    {
+      "customer_id": 737,
+      "customer_name": "Kyle Smith",
+      "region": "Central",
+      "acquisition_channel": "Paid Ads",
+      "frequency": 16,
+      "monetary": 9700.35,
+      "segment": "Champions"
+    },
+    {
+      "customer_id": 2090,
+      "customer_name": "Andrea Townsend",
+      "region": "East",
+      "acquisition_channel": "Organic Search",
+      "frequency": 17,
+      "monetary": 9590.07,
+      "segment": "Champions"
+    },
+    {
+      "customer_id": 2205,
+      "customer_name": "Karina Boone",
+      "region": "East",
+      "acquisition_channel": "Social Media",
+      "frequency": 17,
+      "monetary": 9356.44,
+      "segment": "Loyal Customers"
+    },
+    {
+      "customer_id": 1240,
+      "customer_name": "James Novak",
+      "region": "South",
+      "acquisition_channel": "Email",
+      "frequency": 13,
+      "monetary": 9180.19,
+      "segment": "Champions"
+    },
+    {
+      "customer_id": 799,
+      "customer_name": "Mark Clark",
+      "region": "Central",
+      "acquisition_channel": "Organic Search",
+      "frequency": 9,
+      "monetary": 9131.45,
+      "segment": "Loyal Customers"
+    },
+    {
+      "customer_id": 2059,
+      "customer_name": "Zachary Miller",
+      "region": "North",
+      "acquisition_channel": "Organic Search",
+      "frequency": 19,
+      "monetary": 8507.31,
+      "segment": "Champions"
+    },
+    {
+      "customer_id": 1243,
+      "customer_name": "Robert Byrd",
+      "region": "South",
+      "acquisition_channel": "Social Media",
+      "frequency": 13,
+      "monetary": 8430.61,
+      "segment": "Champions"
+    },
+    {
+      "customer_id": 1898,
+      "customer_name": "Lisa Thomas",
+      "region": "North",
+      "acquisition_channel": "Referral",
+      "frequency": 17,
+      "monetary": 8388.710000000001,
+      "segment": "Champions"
+    },
+    {
+      "customer_id": 1165,
+      "customer_name": "Blake Hardy",
+      "region": "Central",
+      "acquisition_channel": "Direct",
+      "frequency": 18,
+      "monetary": 8157.09,
+      "segment": "Champions"
+    },
+    {
+      "customer_id": 481,
+      "customer_name": "Jorge Bates",
+      "region": "North",
+      "acquisition_channel": "Social Media",
+      "frequency": 17,
+      "monetary": 8122.04,
+      "segment": "Champions"
+    }
+  ],
+  "retention": {
+    "months": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "cohorts": [
+      {
+        "cohort": "2023-01",
+        "values": [
+          null,
+          null,
+          5.9,
+          11.8,
+          17.6,
+          5.9,
+          5.9,
+          5.9,
+          5.9,
+          5.9,
+          null,
+          null
+        ]
+      },
+      {
+        "cohort": "2023-02",
+        "values": [
+          3.9,
+          17.6,
+          19.6,
+          9.8,
+          13.7,
+          13.7,
+          19.6,
+          9.8,
+          9.8,
+          13.7,
+          9.8,
+          11.8
+        ]
+      },
+      {
+        "cohort": "2023-03",
+        "values": [
+          15.7,
+          12.9,
+          20.0,
+          12.9,
+          8.6,
+          12.9,
+          18.6,
+          15.7,
+          10.0,
+          24.3,
+          27.1,
+          17.1
+        ]
+      },
+      {
+        "cohort": "2023-04",
+        "values": [
+          8.2,
+          17.8,
+          16.4,
+          11.0,
+          15.1,
+          16.4,
+          17.8,
+          15.1,
+          17.8,
+          13.7,
+          11.0,
+          31.5
+        ]
+      },
+      {
+        "cohort": "2023-05",
+        "values": [
+          6.2,
+          13.8,
+          17.5,
+          13.8,
+          12.5,
+          21.2,
+          17.5,
+          16.2,
+          16.2,
+          13.8,
+          8.8,
+          16.2
+        ]
+      },
+      {
+        "cohort": "2023-06",
+        "values": [
+          10.5,
+          21.0,
+          19.0,
+          13.7,
+          15.8,
+          19.0,
+          13.7,
+          19.0,
+          13.7,
+          8.4,
+          24.2,
+          13.7
+        ]
+      },
+      {
+        "cohort": "2023-07",
+        "values": [
+          9.6,
+          4.3,
+          8.5,
+          16.0,
+          8.5,
+          11.7,
+          9.6,
+          13.8,
+          7.4,
+          16.0,
+          9.6,
+          13.8
+        ]
+      },
+      {
+        "cohort": "2023-08",
+        "values": [
+          8.4,
+          12.0,
+          13.2,
+          10.8,
+          18.1,
+          18.1,
+          12.0,
+          14.5,
+          12.0,
+          20.5,
+          9.6,
+          18.1
+        ]
+      },
+      {
+        "cohort": "2023-09",
+        "values": [
+          11.3,
+          16.0,
+          10.4,
+          16.0,
+          15.1,
+          20.8,
+          17.9,
+          11.3,
+          10.4,
+          23.6,
+          12.3,
+          14.2
+        ]
+      },
+      {
+        "cohort": "2023-10",
+        "values": [
+          7.0,
+          22.0,
+          16.0,
+          14.0,
+          10.0,
+          20.0,
+          19.0,
+          19.0,
+          9.0,
+          20.0,
+          13.0,
+          10.0
+        ]
+      },
+      {
+        "cohort": "2023-11",
+        "values": [
+          14.6,
+          16.4,
+          12.7,
+          13.6,
+          18.2,
+          14.6,
+          15.4,
+          11.8,
+          16.4,
+          10.9,
+          11.8,
+          16.4
+        ]
+      },
+      {
+        "cohort": "2023-12",
+        "values": [
+          9.1,
+          19.1,
+          16.4,
+          17.3,
+          9.1,
+          14.6,
+          20.0,
+          9.1,
+          12.7,
+          12.7,
+          13.6,
+          15.4
+        ]
+      },
+      {
+        "cohort": "2024-01",
+        "values": [
+          6.4,
+          14.7,
+          18.4,
+          20.2,
+          11.0,
+          17.4,
+          17.4,
+          12.8,
+          19.3,
+          13.8,
+          13.8,
+          18.4
+        ]
+      },
+      {
+        "cohort": "2024-02",
+        "values": [
+          9.4,
+          16.7,
+          13.5,
+          10.4,
+          16.7,
+          12.5,
+          13.5,
+          17.7,
+          9.4,
+          10.4,
+          20.8,
+          17.7
+        ]
+      },
+      {
+        "cohort": "2024-03",
+        "values": [
+          5.7,
+          13.3,
+          11.4,
+          11.4,
+          10.5,
+          9.5,
+          15.2,
+          13.3,
+          11.4,
+          12.4,
+          16.2,
+          10.5
+        ]
+      },
+      {
+        "cohort": "2024-04",
+        "values": [
+          7.3,
+          11.9,
+          20.2,
+          12.8,
+          17.4,
+          20.2,
+          15.6,
+          15.6,
+          11.0,
+          13.8,
+          17.4,
+          16.5
+        ]
+      },
+      {
+        "cohort": "2024-05",
+        "values": [
+          7.3,
+          20.8,
+          20.8,
+          17.7,
+          14.6,
+          8.3,
+          25.0,
+          15.6,
+          12.5,
+          9.4,
+          16.7,
+          8.3
+        ]
+      },
+      {
+        "cohort": "2024-06",
+        "values": [
+          4.1,
+          11.3,
+          10.3,
+          14.4,
+          16.5,
+          11.3,
+          17.5,
+          12.4,
+          14.4,
+          15.5,
+          12.4,
+          10.3
+        ]
+      },
+      {
+        "cohort": "2024-07",
+        "values": [
+          5.8,
+          21.8,
+          14.9,
+          17.2,
+          18.4,
+          23.0,
+          16.1,
+          9.2,
+          14.9,
+          16.1,
+          5.8,
+          12.6
+        ]
+      },
+      {
+        "cohort": "2024-08",
+        "values": [
+          11.3,
+          18.6,
+          17.5,
+          15.5,
+          22.7,
+          15.5,
+          10.3,
+          17.5,
+          14.4,
+          13.4,
+          5.1,
+          7.2
+        ]
+      },
+      {
+        "cohort": "2024-09",
+        "values": [
+          8.4,
+          22.9,
+          18.1,
+          15.7,
+          15.7,
+          13.2,
+          9.6,
+          9.6,
+          10.8,
+          16.9,
+          18.1,
+          13.2
+        ]
+      },
+      {
+        "cohort": "2024-10",
+        "values": [
+          6.4,
+          12.8,
+          9.0,
+          14.1,
+          16.7,
+          3.8,
+          14.1,
+          12.8,
+          14.1,
+          6.4,
+          10.3,
+          9.0
+        ]
+      },
+      {
+        "cohort": "2024-11",
+        "values": [
+          10.8,
+          17.6,
+          14.9,
+          10.8,
+          14.9,
+          12.2,
+          13.5,
+          14.9,
+          12.2,
+          9.5,
+          9.5,
+          8.1
+        ]
+      },
+      {
+        "cohort": "2024-12",
+        "values": [
+          2.8,
+          15.5,
+          14.1,
+          19.7,
+          12.7,
+          16.9,
+          8.5,
+          14.1,
+          14.1,
+          5.6,
+          11.3,
+          4.2
+        ]
+      },
+      {
+        "cohort": "2025-01",
+        "values": [
+          3.6,
+          7.1,
+          17.9,
+          5.4,
+          10.7,
+          16.1,
+          10.7,
+          14.3,
+          14.3,
+          7.1,
+          14.3,
+          7.1
+        ]
+      },
+      {
+        "cohort": "2025-02",
+        "values": [
+          6.7,
+          13.3,
+          15.0,
+          18.3,
+          13.3,
+          11.7,
+          8.3,
+          10.0,
+          10.0,
+          10.0,
+          5.0,
+          null
+        ]
+      },
+      {
+        "cohort": "2025-03",
+        "values": [
+          5.6,
+          13.0,
+          9.3,
+          9.3,
+          16.7,
+          14.8,
+          13.0,
+          11.1,
+          13.0,
+          7.4,
+          null,
+          null
+        ]
+      },
+      {
+        "cohort": "2025-04",
+        "values": [
+          6.9,
+          12.1,
+          13.8,
+          13.8,
+          8.6,
+          15.5,
+          8.6,
+          17.2,
+          20.7,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "cohort": "2025-05",
+        "values": [
+          4.8,
+          14.3,
+          14.3,
+          23.8,
+          11.9,
+          14.3,
+          9.5,
+          9.5,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "cohort": "2025-06",
+        "values": [
+          8.8,
+          14.7,
+          14.7,
+          5.9,
+          8.8,
+          14.7,
+          11.8,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "cohort": "2025-07",
+        "values": [
+          10.0,
+          10.0,
+          10.0,
+          10.0,
+          3.3,
+          6.7,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "cohort": "2025-08",
+        "values": [
+          7.1,
+          7.1,
+          7.1,
+          17.9,
+          14.3,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "cohort": "2025-09",
+        "values": [
+          7.1,
+          17.9,
+          7.1,
+          3.6,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "cohort": "2025-10",
+        "values": [
+          14.3,
+          7.1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "cohort": "2025-11",
+        "values": [
+          null,
+          25.0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "cohort": "2025-12",
+        "values": [
+          100.0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ]
+  }
+}
